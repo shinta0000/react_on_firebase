@@ -1,1 +1,1 @@
-YouTubeの動画でfirebaseを用いたReactの勉強を行うリポジトリ
+# YouTube の動画で firebase を用いた React の勉強を行うリポジトリ
